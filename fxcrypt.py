@@ -141,7 +141,7 @@ try:
     if (
         __obfuscator__ != "fxcrypt" or
         __authors__ != ("eternalware") or
-        __github__ != "https://github.com/soblvzn" or
+        __github__ != "https://github.com/localware" or
         __telegram__ != "https://t.me/eternalware" or
         __license__ != "EPL-2.0" or
         __code__ != 'print("Hello world!")'
